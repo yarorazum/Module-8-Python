@@ -1,5 +1,5 @@
 
-#Create imaginary bouncing ball "game": you should set some screen size, and make the circle changing coordinates bouncing from screen edge.
+
 """max_x = 500
 max_y = 500
 
