@@ -17,7 +17,6 @@ dx = 7
 dy = 5
 radius = 20
 ball_color = (255, 255, 255)
-
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
