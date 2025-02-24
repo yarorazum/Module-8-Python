@@ -16,7 +16,6 @@ while True:
 
     if x > max_x or x <= 0:
         dx = -dx
-
     if y > max_y or y <= 0:
         dy = -dy
 
