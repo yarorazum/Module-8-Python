@@ -13,7 +13,6 @@ def draw_circle(x,y):
 while True:
     x += dx
     y += dy
-
     if x > max_x or x <= 0:
         dx = -dx
     if y > max_y or y <= 0:
