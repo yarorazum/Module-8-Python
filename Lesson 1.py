@@ -6,7 +6,6 @@ screen = pygame.display.set_mode((500, 500))
 pygame.display.set_caption("Bouncing Ball")
 
 clock = pygame.time.Clock()
-
 running = True
 
 max_x = 500
